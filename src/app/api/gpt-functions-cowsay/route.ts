@@ -19,4 +19,4 @@ export const GET = (request: NextRequest) => {
       status: 200,
     }
   );
-}
+} 
